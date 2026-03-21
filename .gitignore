@@ -1,0 +1,12 @@
+generate_readme.py
+setup_git.py
+commit.py
+requirements.txt
+
+__pycache__/
+*.pyc
+.env
+*.egg-info/
+dist/
+build/
+.venv/
